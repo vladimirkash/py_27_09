@@ -4,7 +4,6 @@ length = len(myList)
 a = ''
 b = ''
 counter = 1
-x = ''
 for p in myList:
     b = p
     if a != b:
